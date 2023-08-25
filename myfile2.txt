@@ -1,0 +1,2 @@
+s This line added in myfile2.txt in Git
+
